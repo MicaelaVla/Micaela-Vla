@@ -26,8 +26,8 @@
 
 
 ## SOME PROJECTS I´M PROUD OF
-- [Urban Grocers App](link-al-proyecto): Pruebas automatizadas de la funcionalidad de la aplicación.
-- [Urban Routes App](link-al-proyecto): Evaluación de la interfaz de usuario mediante pruebas automatizadas.
+- [Urban Grocers App](https://github.com/MicaelaVla/qa-project-Urban-Grocers-app-es): Pruebas automatizadas de la funcionalidad de la aplicación.
+- [Urban Routes App](https://github.com/MicaelaVla/qa-project-Urban-Routes-es): Evaluación de la interfaz de usuario mediante pruebas automatizadas.
 
 ## CONTACT INFORMATION
 - 📧 Email: micaelavlaeminch1@gmail.com
